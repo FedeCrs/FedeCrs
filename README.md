@@ -40,7 +40,7 @@ Analysis of NO₂ pollution levels in Barcelona (2019–2025) using real-world o
 
 ## 📫 Contact
 
-* LinkedIn: *(pon aquí tu link)*
+* LinkedIn: https://www.linkedin.com/in/fede-caruso
 * GitHub: https://github.com/FedeCrs
 
 ---
