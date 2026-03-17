@@ -2,7 +2,11 @@
 
 🎯 Data Analyst & AI Engineer based in Barcelona
 
-I build data-driven projects combining data analysis, machine learning and interactive applications.
+🔎 Focus: Data Analytics | Machine Learning | AI Applications
+
+💡 Background: AI & Data Analytics training (IT Academy, AEDIA)
+
+I turn data into insights and build end-to-end data & AI projects — from raw data to interactive applications.
 
 ---
 
@@ -33,8 +37,8 @@ Analysis of NO₂ pollution levels in Barcelona (2019–2025) using real-world o
 
 ## 🚀 Currently
 
-* Improving my skills in Machine Learning & AI
-* Building real-world data projects
+- Developing real-world data projects (Air Quality in Barcelona)  
+- Strengthening Machine Learning & AI skills  
 
 ---
 
