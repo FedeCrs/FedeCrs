@@ -31,7 +31,7 @@ Analysis of NO₂ pollution levels in Barcelona (2019–2025) using real-world o
 * Interactive dashboard with Streamlit
 * Insights on urban pollution patterns
 
-👉 *(Project link coming soon)*
+👉 * Project link: https://github.com/FedeCrs/barcelona-air-quality-no2-analysis.git
 
 ---
 
